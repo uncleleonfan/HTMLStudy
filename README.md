@@ -1,2 +1,2 @@
 # HTMLStudy
-Demos for html study.
+Demos for Html study.
